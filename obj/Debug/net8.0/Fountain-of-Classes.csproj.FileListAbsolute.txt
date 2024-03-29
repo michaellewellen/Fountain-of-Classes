@@ -1,0 +1,15 @@
+C:\Users\michael.lewellen\Fountain-of-Classes\bin\Debug\net8.0\Fountain-of-Classes.exe
+C:\Users\michael.lewellen\Fountain-of-Classes\bin\Debug\net8.0\Fountain-of-Classes.deps.json
+C:\Users\michael.lewellen\Fountain-of-Classes\bin\Debug\net8.0\Fountain-of-Classes.runtimeconfig.json
+C:\Users\michael.lewellen\Fountain-of-Classes\bin\Debug\net8.0\Fountain-of-Classes.dll
+C:\Users\michael.lewellen\Fountain-of-Classes\bin\Debug\net8.0\Fountain-of-Classes.pdb
+C:\Users\michael.lewellen\Fountain-of-Classes\obj\Debug\net8.0\Fountain-of-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.lewellen\Fountain-of-Classes\obj\Debug\net8.0\Fountain-of-Classes.AssemblyInfoInputs.cache
+C:\Users\michael.lewellen\Fountain-of-Classes\obj\Debug\net8.0\Fountain-of-Classes.AssemblyInfo.cs
+C:\Users\michael.lewellen\Fountain-of-Classes\obj\Debug\net8.0\Fountain-of-Classes.csproj.CoreCompileInputs.cache
+C:\Users\michael.lewellen\Fountain-of-Classes\obj\Debug\net8.0\Fountain-of-Classes.sourcelink.json
+C:\Users\michael.lewellen\Fountain-of-Classes\obj\Debug\net8.0\Fountain-of-Classes.dll
+C:\Users\michael.lewellen\Fountain-of-Classes\obj\Debug\net8.0\refint\Fountain-of-Classes.dll
+C:\Users\michael.lewellen\Fountain-of-Classes\obj\Debug\net8.0\Fountain-of-Classes.pdb
+C:\Users\michael.lewellen\Fountain-of-Classes\obj\Debug\net8.0\Fountain-of-Classes.genruntimeconfig.cache
+C:\Users\michael.lewellen\Fountain-of-Classes\obj\Debug\net8.0\ref\Fountain-of-Classes.dll
